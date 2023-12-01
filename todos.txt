@@ -1,0 +1,4 @@
+finish app
+write tests
+get haircut
+get ready for interview
